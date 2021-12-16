@@ -24,9 +24,9 @@ params:
   sections:
     - showcase
     - about
+    - client-and-work
     - experience
     - education
-    - client-and-work
     - testimonial
     - contact
     - newsletter
