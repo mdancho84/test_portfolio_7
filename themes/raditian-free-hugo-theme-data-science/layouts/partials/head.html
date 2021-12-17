@@ -19,6 +19,17 @@
     })(window, document, 'script', 'dataLayer', '{{ .Site.Params.googleTagManagerID }}');
 </script>
 <!-- End Google Tag Manager -->
+
+<!-- Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalyticsID }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ .Site.Params.googleAnalyticsID }}');
+</script>
+
 <!-- endinject -->
 <title>{{ .Site.Data.homepage.head.title }}</title>
 <style>
