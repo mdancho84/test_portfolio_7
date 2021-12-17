@@ -8,8 +8,7 @@ params:
       _2x: img/general/business-science-logo.png
       alt: Design & Code - Business Science
       x: img/general/business-science-logo.png
-  googleTagManagerID: GTM-000000
-  googleAnalyticsID: UA-76139189-2
+  googleTagManagerID: UA-76139189-2
   logo:
     text1: Matt
     text2: Dancho
