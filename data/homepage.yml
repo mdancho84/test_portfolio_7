@@ -17,38 +17,22 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Matt"
-    URL: "mailto:your-email@gmail.com"
+    URL: "mailto:mdancho@busienss-science.io"
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com"
+      URL: "https://www.linkedin.com/in/mattdancho/"
 
     - icon: "github"
-      URL: "https://github.com"
+      URL: "https://github.com/business-science"
 
     - icon: "twitter"
-      URL: "https://twitter.com"
-
-    - icon: "dribbble"
-      URL: "https://dribbble.com"
-
-    - icon: "behance"
-      URL: "https://www.behance.net"
+      URL: "https://twitter.com/mdancho84"
 
     - icon: "youtube"
-      URL: "https://www.youtube.com"
+      URL: "https://www.youtube.com/channel/UCqQ_cxcNu1ekqHXDc-MbU_w"
 
-    - icon: "instagram"
-      URL: "https://www.instagram.com"
-
-    - icon: "facebook"
-      URL: "https://www.facebook.com"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+    
 
 # about
 about:
@@ -68,7 +52,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com"
+    URL: "https://www.linkedin.com/in/mattdancho/"
   image:
     x: "img/who-am-i/user-picture-2.jpg"
     _2x: "img/who-am-i/user-picture-2.jpg"
@@ -88,6 +72,10 @@ experience:
     URL: "#"
 
   items:
+    - title: "Founder"
+      company: "Business Science, <a href=''>www.business-science.io</a>"
+      duration: "Sept 2018 - Present"
+      
     - title: "Director of Product Engineering & Market Development"
       company: "Bonney Forge"
       duration: "Jan 2017 - Aug 2018"
