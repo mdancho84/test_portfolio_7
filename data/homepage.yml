@@ -69,7 +69,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "/cv/resume-matt.pdf"
 
   items:
     - title: "Founder"
